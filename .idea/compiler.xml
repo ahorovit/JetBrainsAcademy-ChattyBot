@@ -4,8 +4,12 @@
     <bytecodeTargetLevel>
       <module name="Problems-Between_two_numbers_main" target="11" />
       <module name="Problems-Between_two_numbers_test" target="11" />
+      <module name="Problems-Celsius_to_Fahrenheit_main" target="11" />
+      <module name="Problems-Celsius_to_Fahrenheit_test" target="11" />
       <module name="Problems-Check_the_order_main" target="11" />
       <module name="Problems-Check_the_order_test" target="11" />
+      <module name="Problems-Difference_between_two_doubles_main" target="11" />
+      <module name="Problems-Difference_between_two_doubles_test" target="11" />
       <module name="Problems-Fizz_Buzz_main" target="11" />
       <module name="Problems-Fizz_Buzz_test" target="11" />
       <module name="Problems-Grades_main" target="11" />
