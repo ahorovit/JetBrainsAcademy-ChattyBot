@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Between_two_numbers_main" target="11" />
+      <module name="Problems-Between_two_numbers_test" target="11" />
+      <module name="Problems-Check_the_order_main" target="11" />
+      <module name="Problems-Check_the_order_test" target="11" />
+      <module name="Problems-Fizz_Buzz_main" target="11" />
+      <module name="Problems-Fizz_Buzz_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
+      <module name="Problems-Is_between_main" target="11" />
+      <module name="Problems-Is_between_test" target="11" />
+      <module name="Problems-Kotlin_x5_main" target="11" />
+      <module name="Problems-Kotlin_x5_test" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_4_main" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_4_test" target="11" />
+      <module name="Problems-Number_squared_main" target="11" />
+      <module name="Problems-Number_squared_test" target="11" />
+      <module name="Problems-Odd_or_even_main" target="11" />
+      <module name="Problems-Odd_or_even_test" target="11" />
+      <module name="Problems-The_minimum_value_of_N_numbers_main" target="11" />
+      <module name="Problems-The_minimum_value_of_N_numbers_test" target="11" />
+      <module name="Problems-val_or_var__main" target="11" />
+      <module name="Problems-val_or_var__test" target="11" />
+      <module name="Problems-Within_both_ranges_main" target="11" />
+      <module name="Problems-Within_both_ranges_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
